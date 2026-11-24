@@ -1,0 +1,14 @@
+# Arquivos compilados
+out/
+*.class
+
+# Banco local e arquivos temporários do SQLite
+dados/*.db
+dados/*.db-journal
+dados/*.db-shm
+dados/*.db-wal
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.iml
